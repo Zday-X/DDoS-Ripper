@@ -1,4 +1,6 @@
-# DDoS-Ripper
+# DDoS-Ripper But Open Source
+
+### Working on to reverse engineer and make the code clean from obfuscated.
 
 # What is a DDoS Attack?
 A Distributable Denied-of-Service (DDOS) attack server that cuts off targets or surrounding infrastructure in a flood of Internet traffic
